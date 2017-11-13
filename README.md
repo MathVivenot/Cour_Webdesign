@@ -12,6 +12,7 @@ Reprenant l'idée principale du cour sur la Tuile graphique et "Les Cavernes d'A
 Retrouver le sujet ici : https://github.com/ziopod/Travaux-pratiques/tree/master/Graphic%20design/02%20-%20Style%20tiles
 
 Inspiration: http://styletil.es
+
 Crédit photo : CEphoto, Uwe Aranas, Licence cc BY-SA 3.0
 
 Informations
