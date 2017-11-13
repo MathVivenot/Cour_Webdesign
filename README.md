@@ -15,7 +15,7 @@ Inspiration: http://styletil.es
 
 Crédit photo : 
 
-  > CEphoto, Uwe Aranas, Licence cc BY-SA 3.0
+  > CEphoto, Uwe Aranas, Licence cc BY-SA 3.0;
   > Wikipédia, licence cc BY-SA 3.0
   
 Informations
