@@ -16,10 +16,10 @@ Crédit photo : CEphoto, Uwe Aranas, Licence cc BY-SA 3.0
 
 Informations
 
-Auteur : Isaac Asimov
-Pays : États-Unis
-Genre : Roman, Science-fiction
-Titre original : The Caves of Steel
-Éditeur : Doubleday
-Date de parution : juin 1954
-Crédit éditorial : Wikipédia, licence cc BY-SA 3.0
+  - Auteur : Isaac Asimov
+  - Pays : États-Unis
+  - Genre : Roman, Science-fiction
+  - Titre original : The Caves of Steel
+  - Éditeur : Doubleday
+  - Date de parution : juin 1954
+  - Crédit éditorial : Wikipédia, licence cc BY-SA 3.0
